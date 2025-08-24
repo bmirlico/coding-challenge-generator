@@ -66,7 +66,7 @@ VITE_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
 
 ## Demo
 
-*[Demo video will be added here]*
+https://github.com/user-attachments/assets/00b6b8b4-37e9-46df-a172-9ae6855fb9ec
 
 ## Project Structure
 
