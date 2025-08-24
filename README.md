@@ -31,9 +31,8 @@ A web application that generates personalized coding challenges using AI, with u
 ### Backend Setup
 ```bash
 cd backend
-uv venv
+uv sync
 source .venv/bin/activate
-uv pip install -r requirements.txt
 uv run server.py
 ```
 
