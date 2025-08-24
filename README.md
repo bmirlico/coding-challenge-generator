@@ -1,4 +1,4 @@
-# Coding Challenges App
+👨🏽‍💻 # Coding Challenges App
 
 A web application that generates personalized coding challenges using AI, with user authentication and progress tracking.
 
